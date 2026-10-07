@@ -3,6 +3,11 @@
   "company": {
     "name": "Willuny Labs",
     "legalName": "Willuny Labs LLC",
+    "foundingDate": "2026-01-07",
+    "jurisdiction": "Wyoming, United States",
+    "companyType": "Limited Liability Company",
+    "registryUrl": "https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=058226073052048143164205239138097139177051230186",
+    "openCorporatesUrl": "https://opencorporates.com/companies/us_wy/2026-001860652",
     "description": "Willuny Labs builds source-owned software products, maintains open-source foundations, and publishes practical engineering work.",
     "url": "https://willuny.com/",
     "about": "https://willuny.com/company",
