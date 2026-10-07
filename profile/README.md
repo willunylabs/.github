@@ -6,7 +6,8 @@ practical engineering work.
 
 Formed in Wyoming on January 7, 2026.
 [Official company record](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=058226073052048143164205239138097139177051230186) ·
-[OpenCorporates](https://opencorporates.com/companies/us_wy/2026-001860652)
+[OpenCorporates](https://opencorporates.com/companies/us_wy/2026-001860652) ·
+[Crunchbase](https://www.crunchbase.com/organization/willuny-labs)
 
 [Company website](https://willuny.com/) ·
 [About Willuny Labs](https://willuny.com/company) ·
