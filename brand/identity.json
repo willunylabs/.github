@@ -1,0 +1,40 @@
+{
+  "updated": "2026-10-07",
+  "company": {
+    "name": "Willuny Labs",
+    "legalName": "Willuny Labs LLC",
+    "description": "Willuny Labs builds source-owned software products, maintains open-source foundations, and publishes practical engineering work.",
+    "url": "https://willuny.com/",
+    "about": "https://willuny.com/company",
+    "contact": "https://willuny.com/shop/contact",
+    "github": "https://github.com/willunylabs",
+    "inquiriesEmail": "contact@willuny.com",
+    "supportEmail": "support@willuny.com",
+    "securityEmail": "security@willuny.com"
+  },
+  "productFamily": {
+    "name": "Amsonia",
+    "url": "https://amsonia.dev/",
+    "publisher": "Willuny Labs LLC",
+    "products": [
+      {
+        "name": "Amsonia Platform",
+        "url": "https://amsonia.dev/platform/",
+        "distribution": "commercial-source"
+      },
+      {
+        "name": "Amsonia Next",
+        "url": "https://amsonia.dev/next/",
+        "distribution": "private-source",
+        "openSource": false
+      }
+    ]
+  },
+  "publicEngineering": [
+    {
+      "repository": "https://github.com/willunylabs/amsonia-core",
+      "license": "Apache-2.0",
+      "documentation": "https://github.com/willunylabs/amsonia-core/blob/main/docs/getting-started.md"
+    }
+  ]
+}
