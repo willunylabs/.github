@@ -2,7 +2,9 @@
 
 Willuny Labs LLC is an independent software product company. We build
 source-owned software products, maintain open-source foundations, and publish
-practical engineering work.
+practical engineering work. Our main product focus is **Amsonia Next**: a private
+Next.js SaaS starter with authentication, Stripe billing, PostgreSQL, and admin
+in one TypeScript application.
 
 Formed in Wyoming on January 7, 2026.
 [Official company record](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=058226073052048143164205239138097139177051230186) ·
@@ -22,12 +24,14 @@ distribution model, and technical home.
 
 | Product | Focus | Source availability |
 | --- | --- | --- |
-| [Amsonia Platform](https://amsonia.dev/platform/) | Go + Next.js foundation for multi-tenant B2B SaaS | Commercial source packages |
-| [Amsonia Next](https://amsonia.dev/next/) | Single-tenant Next.js SaaS foundation | Privately maintained; contact us for availability |
+| [Amsonia Next](https://amsonia.dev/next/) | Next.js SaaS starter with authentication, Stripe billing, and admin; currently single-tenant | Private source; contact us about availability and terms |
+| [Amsonia Platform](https://amsonia.dev/platform/) | Separate Go + Next.js foundation for multi-tenant B2B SaaS | Commercial source packages |
 
 Product evaluation and technical documentation live at
 [amsonia.dev](https://amsonia.dev/). Company information, engineering articles,
 commercial packages, and support live at [willuny.com](https://willuny.com/).
+[Explore Amsonia Next](https://amsonia.dev/next/) or
+[ask about source availability, licensing, and support](https://willuny.com/shop/contact).
 Amsonia Next is not an open-source distribution.
 
 ## Public engineering
